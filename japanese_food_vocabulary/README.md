@@ -1,6 +1,6 @@
-# 日本料理の語彙ポスター
+# 料理の語彙ポスター
 
-日本料理のメニュー、トッピング、薬味、調味料を、ふりがな付きで学ぶための画像集です。
+日本料理を中心に、各国料理のメニュー、トッピング、薬味、調味料を、ふりがな付きで学ぶための画像集です。
 
 ## メニューと基本用語
 
@@ -26,5 +26,14 @@
 | 13 | おでんの薬味 | [13_oden_condiments.png](13_oden_condiments.png) |
 | 14 | 懐石料理の薬味とあしらい | [14_kaiseki_garnishes.png](14_kaiseki_garnishes.png) |
 | 15 | 和食の調味料と薬味 | [15_washoku_condiments.png](15_washoku_condiments.png) |
+
+## 各国料理
+
+| 番号 | テーマ | 画像 |
+| --- | --- | --- |
+| 16 | フランス料理の定番 | [16_french_classics.png](16_french_classics.png) |
+| 17 | フランス料理のソースと付け合わせ | [17_french_sauces_garnishes.png](17_french_sauces_garnishes.png) |
+| 18 | イタリア料理の定番 | [18_italian_classics.png](18_italian_classics.png) |
+| 19 | イタリア料理のトッピング | [19_italian_toppings.png](19_italian_toppings.png) |
 
 地域や店によって、料理名、具材、薬味、提供方法が異なる場合があります。
